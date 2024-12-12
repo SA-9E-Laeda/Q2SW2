@@ -1,0 +1,49 @@
+h2{
+	text-align: center;
+}
+
+body{
+	background-image: url('atlas.gif');
+	background-repeat:;
+}
+
+h1{
+	text-align: center;
+	background-color: green;
+	text-shadow: 4px 4px #8c180f;
+}
+
+p{
+	text-align: center;
+	text-shadow: 1px 1px #1262b8;
+	  font-size: 23px;
+}
+
+h3{
+	text-align: center;
+	text-shadow: 2px 2px #11b8aa;
+}
+
+.content{
+	background-color: #eb6e34;
+}
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+h2{
+	background-color: yellow;
+	text-shadow: 2px 2px seagreen;
+}
+
+.animate__animated.animate__bounceInUp {
+--animate-duration: 2s;}
+
+.animate__animated.animate__flipInX {
+  --animate-duration: 2s;
+
+.mb-3{
+	text-align: center;
+}
